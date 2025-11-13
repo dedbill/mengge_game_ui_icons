@@ -24,7 +24,7 @@ Some icons were modified based on [Kenney](https://x.com/KenneyNL)’s [Input Pr
 
 ## License
 
-This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en). If you wish to use these icons in your own project, please follow the terms of this license.
+This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en). If you wish to use these icons in your own project, please follow the terms of this license.
 
 ---
 
@@ -52,7 +52,7 @@ This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licens
 
 ## 许可证
 
-本项目使用了 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en) 许可证，如果你要用于自己的项目，请遵循该许可证规则。
+本项目使用了 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans) 许可证，如果你要用于自己的项目，请遵循该许可证规则。
 
 ---
 
