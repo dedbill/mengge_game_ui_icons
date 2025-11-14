@@ -20,7 +20,7 @@ The current set includes icons for PC/macOS, Xbox, PlayStation, Nintendo Switch 
 
 ## Additional Info
 
-Some icons were ~~modified~~ based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts)(actually used as a reference and redrawn). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
+Some icons were ~~modified~~(actually used as a reference and redrawn) based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
 
 ## License
 
